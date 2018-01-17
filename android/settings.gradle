@@ -1,0 +1,3 @@
+rootProject.name = 'searchBar'
+
+include ':app'

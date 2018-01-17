@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-dropdown-latest",
+  "_id": "react-native-dropdown-latest@0.0.8",
+  "_inBundle": false,
+  "_integrity": "sha1-BXkkRkZKb/xwX4TO93qH7yREf4c=",
+  "_location": "/react-native-dropdown-latest",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-dropdown-latest",
+    "name": "react-native-dropdown-latest",
+    "escapedName": "react-native-dropdown-latest",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dropdown-latest/-/react-native-dropdown-latest-0.0.8.tgz",
+  "_shasum": "05792446464a6ffc705f84cef77a87ef24447f87",
+  "_spec": "react-native-dropdown-latest",
+  "_where": "C:\\Users\\Muyiwa\\Documents\\Projects\\searchBar",
+  "author": {
+    "name": "Babajide Fowotade",
+    "email": "jide.b.tade@gmail.com",
+    "url": "http://github.com/jihdeh"
+  },
+  "bugs": {
+    "url": "https://github.com/jihdeh/react-native-dropdown"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Babajide Fowotade",
+      "email": "jide.b.tade@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "A better Select dropdown menu for react-native",
+  "homepage": "https://github.com/jihdeh/react-native-dropdown",
+  "keywords": [
+    "react-component",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-dropdown-latest",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jihdeh/react-native-dropdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.8"
+}
